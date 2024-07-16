@@ -10,13 +10,15 @@ Python-based tool allows users to securely find the location of a phone number u
 
 Run in terminal:
 
-
-* pip install phonenumbers
-
-* pip install opencage
-
-* pip install folium
-
+```bash
+pip install phonenumbers
+```
+```bash
+pip install opencage
+```
+```bash
+pip install folium
+```
 
 
 ## Documentation
